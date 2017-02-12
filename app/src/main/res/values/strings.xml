@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Final Exam</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="logout">Logout</string>
+
+    <string-array name="topics">
+
+        <item>Button 1</item>
+        <item>Button 2</item>
+        <item>Button 3</item>
+        <item>Logout</item>
+
+    </string-array>
+</resources>
